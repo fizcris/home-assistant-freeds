@@ -1,0 +1,12 @@
+{
+    "domain": "freeds",
+    "name": "Freeds",
+    "documentation": "https://github.com/fizcris/home-assistant-freeds",
+    "issue_tracker": "https://github.com/fizcris/home-assistant-freeds/issues",
+    "dependencies": ["mqtt"],
+    "config_flow": false,
+    "codeowners": ["@fizcris"],
+    "version": "0.0.1",
+    "iot_class": "local_polling",
+    "requirements":[]
+  }

@@ -1,0 +1,12 @@
+{
+    "name": "Freeds",
+    "hacs": "0.0.1",
+    "domains": [
+        "binary_sensor",
+        "sensor",
+        "switch"
+    ],
+    "iot_class": "Local Push",
+    "homeassistant": "0.100.0",
+    "render_readme": true
+}
